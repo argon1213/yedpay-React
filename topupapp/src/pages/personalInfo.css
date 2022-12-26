@@ -1,0 +1,16 @@
+
+.personalCenter{
+    margin: 20px 20px 0px;
+    
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.personalInfo{
+
+    text-align: start;
+
+
+}

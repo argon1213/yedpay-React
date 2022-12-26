@@ -1,0 +1,44 @@
+.Home{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.AmountGroup{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.AmountGroup .adm-selector{
+    --border-radius: 5px !important;
+    /* --checked-color: #d74b4b !important; */
+
+    }
+
+.TextBox{
+   text-align: left;
+   letter-spacing:0.5px;
+   line-height: 200%;
+   margin: 3%;
+}
+
+.TextCard{
+  
+    color: white;
+    background-color: #1677ff;
+    border-color: #1677ff;
+    padding: 0% !important;
+    margin: 3% !important;
+}
+
+.topupButton{
+
+    background-color: #F5F5F5;
+
+
+
+}

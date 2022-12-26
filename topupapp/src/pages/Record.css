@@ -1,0 +1,8 @@
+.record{
+
+    text-align: start;   
+    margin: 20px 20px 0px;
+    
+    display: flex;
+    flex-direction: column;
+}
